@@ -1,0 +1,16 @@
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\RegexCalculator.exe
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\RegexCalculator.deps.json
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\RegexCalculator.runtimeconfig.json
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\RegexCalculator.runtimeconfig.dev.json
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\RegexCalculator.dll
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\ref\RegexCalculator.dll
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\bin\Debug\net5.0\RegexCalculator.pdb
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.AssemblyInfoInputs.cache
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.AssemblyInfo.cs
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.dll
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\ref\RegexCalculator.dll
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.pdb
+C:\Users\nazar\Desktop\RegexCalculator\RegexCalculator\obj\Debug\net5.0\RegexCalculator.genruntimeconfig.cache

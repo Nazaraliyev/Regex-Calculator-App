@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f43f1de6-f5b8-4521-a1ff-cee5a65e0685": {
+      "ProjectGuid": "f43f1de6-f5b8-4521-a1ff-cee5a65e0685",
+      "DisplayName": "RegexCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

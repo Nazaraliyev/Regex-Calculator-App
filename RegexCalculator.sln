@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexCalculator", "RegexCalculator\RegexCalculator.csproj", "{F43F1DE6-F5B8-4521-A1FF-CEE5A65E0685}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43F1DE6-F5B8-4521-A1FF-CEE5A65E0685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43F1DE6-F5B8-4521-A1FF-CEE5A65E0685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43F1DE6-F5B8-4521-A1FF-CEE5A65E0685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43F1DE6-F5B8-4521-A1FF-CEE5A65E0685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DCB9F34-C8A7-4564-803B-63AB22FC88B3}
+	EndGlobalSection
+EndGlobal
